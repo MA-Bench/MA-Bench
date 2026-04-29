@@ -49,7 +49,7 @@ With the rapid development of Multimodal Large Language Models (MLLMs), their po
     <img src="./assets/data_distribution.jpg" width="100%">
 </p>
 
-### Model Comparision
+### Model Comparison
 
 <p align="center">
     <img src="./assets/performance.jpg" width="100%">
